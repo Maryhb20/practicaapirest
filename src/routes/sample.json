@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title": "Aliens",
+        "director": "James Cameron",
+        "año": "1986",
+        "rating": "8.5"
+    },
+    {
+        "id": "2",
+        "title": "El caballero de la noche",
+        "director": "Cristopher Nolan",
+        "año": "2008",
+        "rating": "10"
+    }
+]
